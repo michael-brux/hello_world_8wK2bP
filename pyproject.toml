@@ -18,6 +18,9 @@ classifiers = [
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
+[project. scripts]
+hello-world = "hello_world_8wK2bP.cli:main"
+
 [project.urls]
-Homepage = "https://github.com/michael-brux/sampleproject"
-Issues = "https://github.com/michael-brux/sampleproject/issues"
+Homepage = "https://github.com/michael-brux/hello_world_8wK2bP"
+Issues = "https://github.com/michael-brux/hello_world_8wK2bP/issues"
