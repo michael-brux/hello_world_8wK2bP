@@ -1,5 +1,12 @@
 # Hello World
 
+## Install
+This project is on [Test pypi.org](https://test.pypi.org/project/hello-world-8wK2bP/).
+To install run:
+```
+pip install -i https://test.pypi.org/simple/ hello-world-8wK2bP
+```
+
 [Python Packaging](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 ## Clone
 To clone this project with GitHub CLI:
